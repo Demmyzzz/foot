@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="secondTeam">Add_Score</string>
+    <string name="firstTeam">Add_Score</string>
+    <string name="ref">refresh</string>
+</resources>
